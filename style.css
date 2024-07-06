@@ -4,7 +4,7 @@
 }
 footer{
     min-height: 100vh;
-    background :url(Latar.jpg) no-repeat;
+    background :url(image/Latar.jpg) no-repeat;
     background-size: cover;
     display: flex;
     justify-content: center;
